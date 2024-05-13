@@ -32,4 +32,4 @@ switch (true) {
         break;
 }
 
-console.log('A Classificação do herói ' + nomeHeroi + ' é ' + classificador);
+console.log('O Herói de nome ' + nomeHeroi + ' está no nível ' + classificador);
