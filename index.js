@@ -1,7 +1,6 @@
 const nomeHeroi = 'Luiz';
 let xpHeroi = 10001;
-let xp = xpHeroi;
-let classificador = 'teste';
+let classificador;
 
 switch (true) {
     case xpHeroi <= 1000:
